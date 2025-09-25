@@ -1,5 +1,5 @@
 # Entornos de Desarrollo - 01 - Desarrollo de Software
-Tema 01. Desarrollo de Software. 1DAW. Curso 2025-2026.
+Tema 01. Desarrollo de Software. 1DAM. Curso 2025-2026.
 
 ![imagen](https://raw.githubusercontent.com/joseluisgs/EntornosDesarrollo-00-2022-2023/master/images/entornos.png)
 
@@ -679,7 +679,7 @@ Codificado con :sparkling_heart: por [José Luis González Sánchez](https://twi
 
 ## Licencia de uso
 
-Este repositorio y todo su contenido está licenciado bajo licencia **Creative Commons**, si desea saber más, vea
+Este repositorio está basado en el trabajo de José Luis GS y todo su contenido está licenciado bajo licencia **Creative Commons**, si desea saber más, vea
 la [LICENSE](https://joseluisgs.dev/docs/license/). Por favor si compartes, usas o modificas este proyecto cita a su
 autor, y usa las mismas condiciones para su uso docente, formativo o educativo y no comercial.
 
