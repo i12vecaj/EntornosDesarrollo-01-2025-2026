@@ -128,6 +128,10 @@ Esta relación se manifiesta desde dos puntos de vista:
 
 ## 3. El Ciclo de Vida del Desarrollo de Software (Fases)
 
+
+[![Alt text](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)](https://www.youtube.com/watch?v=GDCJGR5XERA&t=403s)
+
+
 ### 3.1. Concepto de Ciclo de Vida del Software
 La serie de pasos a seguir para desarrollar un programa es lo que se conoce como **Ciclo de Vida del Software**. Cada etapa del ciclo de vida del software se explicará con más detalle, y el desarrollo de software es un proceso que conlleva una serie de pasos genéricos. Es un proceso que puede parecer muy complejo y que exige una gran coordinación y disciplina del grupo de trabajo que lo desarrolle.
 
@@ -637,45 +641,7 @@ A continuación, se detallan algunos de los roles más comunes en el proceso de 
 
 El desarrollo de software es un proceso complejo pero estructurado, que va desde la concepción de una idea hasta la puesta en funcionamiento y mantenimiento de una aplicación. Comprender las fases del ciclo de vida (análisis, diseño, codificación, pruebas, mantenimiento), los diferentes modelos y metodologías (cascada, ágiles como Scrum), y la interacción del software con el hardware es fundamental. Asimismo, es crucial conocer los tipos de lenguajes de programación y sus paradigmas, así como el proceso de traducción de código y el papel de las máquinas virtuales y herramientas de apoyo al desarrollo. Todos estos elementos se combinan para crear soluciones informáticas eficientes, fiables y adaptadas a las necesidades cambiantes de los usuarios y el mercado.
 
-## Autor
 
-Codificado con :sparkling_heart: por [José Luis González Sánchez](https://twitter.com/JoseLuisGS_)
-
-[![Twitter](https://img.shields.io/twitter/follow/JoseLuisGS_?style=social)](https://twitter.com/JoseLuisGS_)
-[![GitHub](https://img.shields.io/github/followers/joseluisgs?style=social)](https://github.com/joseluisgs)
-[![GitHub](https://img.shields.io/github/stars/joseluisgs?style=social)](https://github.com/joseluisgs)
-
-### Contacto
-
-<p>
-  Cualquier cosa que necesites házmelo saber por si puedo ayudarte 💬.
-</p>
-<p>
- <a href="https://joseluisgs.dev" target="_blank">
-        <img src="https://joseluisgs.github.io/img/favicon.png" 
-    height="30">
-    </a>  &nbsp;&nbsp;
-    <a href="https://github.com/joseluisgs" target="_blank">
-        <img src="https://distreau.com/github.svg" 
-    height="30">
-    </a> &nbsp;&nbsp;
-        <a href="https://twitter.com/JoseLuisGS_" target="_blank">
-        <img src="https://i.imgur.com/U4Uiaef.png" 
-    height="30">
-    </a> &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/joseluisgonsan" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
-    height="30">
-    </a>  &nbsp;&nbsp;
-    <a href="https://g.dev/joseluisgs" target="_blank">
-        <img loading="lazy" src="https://googlediscovery.com/wp-content/uploads/google-developers.png" 
-    height="30">
-    </a>  &nbsp;&nbsp;
-<a href="https://www.youtube.com/@joseluisgs" target="_blank">
-        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" 
-    height="30">
-    </a>  
-</p>
 
 ## Licencia de uso
 
