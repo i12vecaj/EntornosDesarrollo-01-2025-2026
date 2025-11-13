@@ -59,8 +59,6 @@ Tema 02. Entornos de desarrollo. Curso 2025-2026.
     - [6.1. Atajos de Teclado Esenciales para la Productividad en JetBrains IntelliJ IDEA](#61-atajos-de-teclado-esenciales-para-la-productividad-en-jetbrains-intellij-idea)
     - [6.2. Atajos de Teclado Esenciales para la Productividad en JetBrains Rider](#62-atajos-de-teclado-esenciales-para-la-productividad-en-jetbrains-rider)
     - [6.3. Atajos de Teclado Esenciales para la Productividad en Visual Studio Code (VS Code)](#63-atajos-de-teclado-esenciales-para-la-productividad-en-visual-studio-code-vs-code)
-  - [Autor](#autor)
-    - [Contacto](#contacto)
   - [Licencia de uso](#licencia-de-uso)
 
 
@@ -565,45 +563,6 @@ El depurador se utiliza para controlar la ejecución paso a paso.
 | **Cerrar pestaña / archivo actual**                                | `Ctrl + W`             | `Cmd + W`              | **Interfaz / Herramientas**    |
 
 
-## Autor
-
-Codificado con :sparkling_heart: por [José Luis González Sánchez](https://twitter.com/JoseLuisGS_)
-
-[![Twitter](https://img.shields.io/twitter/follow/JoseLuisGS_?style=social)](https://twitter.com/JoseLuisGS_)
-[![GitHub](https://img.shields.io/github/followers/joseluisgs?style=social)](https://github.com/joseluisgs)
-[![GitHub](https://img.shields.io/github/stars/joseluisgs?style=social)](https://github.com/joseluisgs)
-
-### Contacto
-
-<p>
-  Cualquier cosa que necesites házmelo saber por si puedo ayudarte 💬.
-</p>
-<p>
- <a href="https://joseluisgs.dev" target="_blank">
-        <img src="https://joseluisgs.github.io/img/favicon.png" 
-    height="30">
-    </a>  &nbsp;&nbsp;
-    <a href="https://github.com/joseluisgs" target="_blank">
-        <img src="https://distreau.com/github.svg" 
-    height="30">
-    </a> &nbsp;&nbsp;
-        <a href="https://twitter.com/JoseLuisGS_" target="_blank">
-        <img src="https://i.imgur.com/U4Uiaef.png" 
-    height="30">
-    </a> &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/joseluisgonsan" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
-    height="30">
-    </a>  &nbsp;&nbsp;
-    <a href="https://g.dev/joseluisgs" target="_blank">
-        <img loading="lazy" src="https://googlediscovery.com/wp-content/uploads/google-developers.png" 
-    height="30">
-    </a>  &nbsp;&nbsp;
-<a href="https://www.youtube.com/@joseluisgs" target="_blank">
-        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" 
-    height="30">
-    </a>  
-</p>
 
 ## Licencia de uso
 
