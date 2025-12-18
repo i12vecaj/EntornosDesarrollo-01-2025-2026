@@ -657,4 +657,4 @@ a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Crea
 Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional License</a>.<br />Creado a partir de la obra
 en <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/joseluisgs" rel="dct:source">https://github.com/joseluisgs</a>.
 
-https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.15/binaries/es/Apache_OpenOffice_4.1.15_MacOS_x86_install_es.dmg/download
+https://downloadarchive.documentfoundation.org/libreoffice/old/6.0.7.3/mac/x86_64/LibreOffice_6.0.7.3_MacOS_x86-64.dmg
