@@ -656,5 +656,3 @@ José Luis González Sánchez</a> is licensed under
 a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
 Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional License</a>.<br />Creado a partir de la obra
 en <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/joseluisgs" rel="dct:source">https://github.com/joseluisgs</a>.
-
-curl -O http://ftp.mozilla.org/pub/firefox/releases/45.9.0esr/mac/en-US/Firefox%2045.9.0esr.dmg
